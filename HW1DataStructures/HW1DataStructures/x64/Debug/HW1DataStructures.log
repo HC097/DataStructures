@@ -1,0 +1,4 @@
+﻿  HW1_CS2413.cpp
+C:\Users\Owner\source\repos\HW1DataStructures\HW1DataStructures\HW1_CS2413.cpp(161,8): warning C4101: 'gpa': unreferenced local variable
+C:\Users\Owner\source\repos\HW1DataStructures\HW1DataStructures\HW1_CS2413.cpp(160,6): warning C4101: 'sid': unreferenced local variable
+  HW1DataStructures.vcxproj -> C:\Users\Owner\source\repos\HW1DataStructures\x64\Debug\HW1DataStructures.exe
